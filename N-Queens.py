@@ -1,4 +1,4 @@
-####215. Kth Largest Element in an Array#####################################################################################################
+####51. N-Queens##################################################################################################
 // Time Complexity : n^n
 // Space Complexity : nXn
 // Did this code successfully run on Leetcode : Yes
